@@ -1,0 +1,696 @@
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 1.1.A.Component Loads For Space  ""601A - Lounge/Coffee""  In Zone  ""Zone 1"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jun 0800 HEATING DATA AT DES HTG
+COOLING OA DB / WB69.2 °F / 64.2 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 174 ft2 5095 - 174 ft2 - -
+Wall Transmission 100 ft2 85 - 100 ft2 493 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 174 ft2 -482 - 174 ft2 5168 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 248 W 846 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 175 W 596 - 0 0 -
+People 8 2000 1600 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 300 0 - 0 0
+Safety Factor 10% / 0% 844 0 10% 566 0
+>> Total Zone Loads - 9284 1600 - 6227 0
+"TABLE 1.1.B.Envelope Loads For Space  ""601A - Lounge/Coffee""  In Zone  ""Zone 1"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+NE  EXPOSURE
+WALL 100 0.091 - 85 - 493
+WINDOW 1 174 0.550 0.460 -482 5095 5168
+Hourly Analysis Program 5.10 Page  10  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 1.2.A.Component Loads For Space  ""601B - Open Area""  In Zone  ""Zone 1"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jun 1800 HEATING DATA AT DES HTG
+COOLING OA DB / WB78.1 °F / 67.1 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 122 ft2 1797 - 122 ft2 - -
+Wall Transmission 60 ft2 37 - 60 ft2 293 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 122 ft2 128 - 122 ft2 3617 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 221 W 756 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 156 W 532 - 0 0 -
+People 5 1250 1000 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 1705 0 - 0 0
+Safety Factor 10% / 0% 621 0 10% 391 0
+>> Total Zone Loads - 6826 1000 - 4301 0
+"TABLE 1.2.B.Envelope Loads For Space  ""601B - Open Area""  In Zone  ""Zone 1"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+N  EXPOSURE
+WALL 60 0.091 - 37 - 293
+WINDOW 1 122 0.550 0.460 128 1797 3617
+Hourly Analysis Program 5.10 Page  11  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 2.1.A.Component Loads For Space  ""602A - Breakout""  In Zone  ""Zone 2"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jan 2300 HEATING DATA AT DES HTG
+COOLING OA DB / WB52.6 °F / 51.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 0 ft2 0 - 0 ft2 - -
+Wall Transmission 0 ft2 0 - 0 ft2 0 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 0 ft2 0 - 0 ft2 0 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 96 W 327 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 54 W 184 - 0 0 -
+People 4 1000 800 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 0 0 - 0 0
+Safety Factor 10% / 0% 151 0 10% 0 0
+>> Total Zone Loads - 1662 800 - 0 0
+"TABLE 2.1.B.Envelope Loads For Space  ""602A - Breakout""  In Zone  ""Zone 2"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+Hourly Analysis Program 5.10 Page  12  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 2.2.A.Component Loads For Space  ""602B - Phone Room""  In Zone  ""Zone 2"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jan 2300 HEATING DATA AT DES HTG
+COOLING OA DB / WB52.6 °F / 51.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 0 ft2 0 - 0 ft2 - -
+Wall Transmission 0 ft2 0 - 0 ft2 0 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 0 ft2 0 - 0 ft2 0 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 34 W 117 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 21 W 73 - 0 0 -
+People 1 250 200 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 0 0 - 0 0
+Safety Factor 10% / 0% 44 0 10% 0 0
+>> Total Zone Loads - 484 200 - 0 0
+"TABLE 2.2.B.Envelope Loads For Space  ""602B - Phone Room""  In Zone  ""Zone 2"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+Hourly Analysis Program 5.10 Page  13  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 2.3.A.Component Loads For Space  ""602C - Phone Room""  In Zone  ""Zone 2"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jan 2300 HEATING DATA AT DES HTG
+COOLING OA DB / WB52.6 °F / 51.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 0 ft2 0 - 0 ft2 - -
+Wall Transmission 0 ft2 0 - 0 ft2 0 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 0 ft2 0 - 0 ft2 0 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 37 W 125 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 23 W 78 - 0 0 -
+People 1 250 200 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 0 0 - 0 0
+Safety Factor 10% / 0% 45 0 10% 0 0
+>> Total Zone Loads - 498 200 - 0 0
+"TABLE 2.3.B.Envelope Loads For Space  ""602C - Phone Room""  In Zone  ""Zone 2"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+Hourly Analysis Program 5.10 Page  14  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 3.1.A.Component Loads For Space  ""603 - Open Office""  In Zone  ""Zone 3"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jun 1800 HEATING DATA AT DES HTG
+COOLING OA DB / WB78.1 °F / 67.1 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 296 ft2 4363 - 296 ft2 - -
+Wall Transmission 111 ft2 70 - 111 ft2 547 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 296 ft2 312 - 296 ft2 8785 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 468 W 1598 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 330 W 1125 - 0 0 -
+People 10 2500 2000 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 2728 0 - 0 0
+Safety Factor 10% / 0% 1270 0 10% 933 0
+>> Total Zone Loads - 13966 2000 - 10265 0
+"TABLE 3.1.B.Envelope Loads For Space  ""603 - Open Office""  In Zone  ""Zone 3"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+N  EXPOSURE
+WALL 111 0.091 - 70 - 547
+WINDOW 1 296 0.550 0.460 312 4363 8785
+Hourly Analysis Program 5.10 Page  15  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 4.1.A.Component Loads For Space  ""604A - Copy Room""  In Zone  ""Zone 4"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jan 2300 HEATING DATA AT DES HTG
+COOLING OA DB / WB52.6 °F / 51.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 0 ft2 0 - 0 ft2 - -
+Wall Transmission 0 ft2 0 - 0 ft2 0 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 0 ft2 0 - 0 ft2 0 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 130 W 444 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 72 W 247 - 0 0 -
+People 1 250 200 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 2940 0 - 0 0
+Safety Factor 10% / 0% 388 0 10% 0 0
+>> Total Zone Loads - 4270 200 - 0 0
+"TABLE 4.1.B.Envelope Loads For Space  ""604A - Copy Room""  In Zone  ""Zone 4"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+Hourly Analysis Program 5.10 Page  16  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 4.2.A.Component Loads For Space  ""604B - Storage""  In Zone  ""Zone 4"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jan 2300 HEATING DATA AT DES HTG
+COOLING OA DB / WB52.6 °F / 51.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 0 ft2 0 - 0 ft2 - -
+Wall Transmission 0 ft2 0 - 0 ft2 0 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 0 ft2 0 - 0 ft2 0 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 94 W 322 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 52 W 179 - 0 0 -
+People 0 0 0 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 0 0 - 0 0
+Safety Factor 10% / 0% 50 0 10% 0 0
+>> Total Zone Loads - 551 0 - 0 0
+"TABLE 4.2.B.Envelope Loads For Space  ""604B - Storage""  In Zone  ""Zone 4"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+Hourly Analysis Program 5.10 Page  17  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 4.3.A.Component Loads For Space  ""604C - Breakout""  In Zone  ""Zone 4"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jan 2300 HEATING DATA AT DES HTG
+COOLING OA DB / WB52.6 °F / 51.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 0 ft2 0 - 0 ft2 - -
+Wall Transmission 0 ft2 0 - 0 ft2 0 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 0 ft2 0 - 0 ft2 0 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 111 W 378 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 62 W 212 - 0 0 -
+People 4 1000 800 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 0 0 - 0 0
+Safety Factor 10% / 0% 159 0 10% 0 0
+>> Total Zone Loads - 1749 800 - 0 0
+"TABLE 4.3.B.Envelope Loads For Space  ""604C - Breakout""  In Zone  ""Zone 4"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+Hourly Analysis Program 5.10 Page  18  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 4.4.A.Component Loads For Space  ""604D - Breakout""  In Zone  ""Zone 4"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jan 2300 HEATING DATA AT DES HTG
+COOLING OA DB / WB52.6 °F / 51.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 0 ft2 0 - 0 ft2 - -
+Wall Transmission 0 ft2 0 - 0 ft2 0 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 0 ft2 0 - 0 ft2 0 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 128 W 436 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 72 W 245 - 0 0 -
+People 6 1500 1200 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 0 0 - 0 0
+Safety Factor 10% / 0% 218 0 10% 0 0
+>> Total Zone Loads - 2399 1200 - 0 0
+"TABLE 4.4.B.Envelope Loads For Space  ""604D - Breakout""  In Zone  ""Zone 4"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+Hourly Analysis Program 5.10 Page  19  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 5.1.A.Component Loads For Space  ""605A - Open Office""  In Zone  ""Zone 5"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jun 1800 HEATING DATA AT DES HTG
+COOLING OA DB / WB78.1 °F / 67.1 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 139 ft2 2053 - 139 ft2 - -
+Wall Transmission 40 ft2 25 - 40 ft2 196 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 139 ft2 147 - 139 ft2 4134 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 269 W 916 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 189 W 645 - 0 0 -
+People 6 1500 1200 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 2046 0 - 0 0
+Safety Factor 10% / 0% 733 0 10% 433 0
+>> Total Zone Loads - 8066 1200 - 4764 0
+"TABLE 5.1.B.Envelope Loads For Space  ""605A - Open Office""  In Zone  ""Zone 5"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+N  EXPOSURE
+WALL 40 0.091 - 25 - 196
+WINDOW 1 139 0.550 0.460 147 2053 4134
+Hourly Analysis Program 5.10 Page  20  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 5.2.A.Component Loads For Space  ""605B - Open Office""  In Zone  ""Zone 5"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jun 1800 HEATING DATA AT DES HTG
+COOLING OA DB / WB78.1 °F / 67.1 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 174 ft2 5936 - 174 ft2 - -
+Wall Transmission 100 ft2 95 - 100 ft2 493 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 174 ft2 183 - 174 ft2 5168 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 227 W 776 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 160 W 546 - 0 0 -
+People 2 500 400 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 682 0 - 0 0
+Safety Factor 10% / 0% 872 0 10% 566 0
+>> Total Zone Loads - 9589 400 - 6227 0
+"TABLE 5.2.B.Envelope Loads For Space  ""605B - Open Office""  In Zone  ""Zone 5"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+NW  EXPOSURE
+WALL 100 0.091 - 95 - 493
+WINDOW 1 174 0.550 0.460 183 5936 5168
+Hourly Analysis Program 5.10 Page  21  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 5.3.A.Component Loads For Space  ""605C - Open Office""  In Zone  ""Zone 5"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jun 1700 HEATING DATA AT DES HTG
+COOLING OA DB / WB79.6 °F / 67.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 122 ft2 5707 - 122 ft2 - -
+Wall Transmission 57 ft2 74 - 57 ft2 282 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 122 ft2 191 - 122 ft2 3617 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 399 W 1361 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 281 W 958 - 0 0 -
+People 4 1000 800 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 1364 0 - 0 0
+Safety Factor 10% / 0% 1066 0 10% 390 0
+>> Total Zone Loads - 11721 800 - 4289 0
+"TABLE 5.3.B.Envelope Loads For Space  ""605C - Open Office""  In Zone  ""Zone 5"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+W  EXPOSURE
+WALL 57 0.091 - 74 - 282
+WINDOW 1 122 0.550 0.460 191 5707 3617
+Hourly Analysis Program 5.10 Page  22  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 6.1.A.Component Loads For Space  ""606 - Open Office""  In Zone  ""Zone 6"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jan 2300 HEATING DATA AT DES HTG
+COOLING OA DB / WB52.6 °F / 51.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 0 ft2 0 - 0 ft2 - -
+Wall Transmission 0 ft2 0 - 0 ft2 0 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 0 ft2 0 - 0 ft2 0 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 361 W 1230 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 254 W 866 - 0 0 -
+People 9 2250 1800 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 0 0 - 0 0
+Safety Factor 10% / 0% 435 0 10% 0 0
+>> Total Zone Loads - 4782 1800 - 0 0
+"TABLE 6.1.B.Envelope Loads For Space  ""606 - Open Office""  In Zone  ""Zone 6"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+Hourly Analysis Program 5.10 Page  23  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 7.1.A.Component Loads For Space  ""607A - Reception Areas""  In Zone  ""Zone 7"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jan 2300 HEATING DATA AT DES HTG
+COOLING OA DB / WB52.6 °F / 51.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 0 ft2 0 - 0 ft2 - -
+Wall Transmission 0 ft2 0 - 0 ft2 0 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 0 ft2 0 - 0 ft2 0 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 181 W 617 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 139 W 473 - 0 0 -
+People 3 750 600 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 341 0 - 0 0
+Safety Factor 10% / 0% 218 0 10% 0 0
+>> Total Zone Loads - 2400 600 - 0 0
+"TABLE 7.1.B.Envelope Loads For Space  ""607A - Reception Areas""  In Zone  ""Zone 7"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+Hourly Analysis Program 5.10 Page  24  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 7.2.A.Component Loads For Space  ""607B - Copy Room""  In Zone  ""Zone 7"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jan 2300 HEATING DATA AT DES HTG
+COOLING OA DB / WB52.6 °F / 51.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 0 ft2 0 - 0 ft2 - -
+Wall Transmission 0 ft2 0 - 0 ft2 0 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 0 ft2 0 - 0 ft2 0 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 325 W 1108 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 181 W 617 - 0 0 -
+People 1 250 200 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 0 0 - 0 0
+Safety Factor 10% / 0% 198 0 10% 0 0
+>> Total Zone Loads - 2173 200 - 0 0
+"TABLE 7.2.B.Envelope Loads For Space  ""607B - Copy Room""  In Zone  ""Zone 7"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+Hourly Analysis Program 5.10 Page  25  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 7.3.A.Component Loads For Space  ""607C - Comm Room""  In Zone  ""Zone 7"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jan 2300 HEATING DATA AT DES HTG
+COOLING OA DB / WB52.6 °F / 51.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 0 ft2 0 - 0 ft2 - -
+Wall Transmission 0 ft2 0 - 0 ft2 0 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 0 ft2 0 - 0 ft2 0 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 88 W 300 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 49 W 167 - 0 0 -
+People 1 250 200 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 0 0 - 0 0
+Safety Factor 10% / 0% 72 0 10% 0 0
+>> Total Zone Loads - 789 200 - 0 0
+"TABLE 7.3.B.Envelope Loads For Space  ""607C - Comm Room""  In Zone  ""Zone 7"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+Hourly Analysis Program 5.10 Page  26  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 8.1.A.Component Loads For Space  ""608 - Break Room Kitchen""  In Zone  ""Zone 8"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jan 1400 HEATING DATA AT DES HTG
+COOLING OA DB / WB62.8 °F / 55.8 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 0 ft2 0 - 0 ft2 - -
+Wall Transmission 0 ft2 0 - 0 ft2 0 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 0 ft2 0 - 0 ft2 0 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 231 W 789 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 163 W 556 - 0 0 -
+People 3 750 600 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 11350 2200 - 0 0
+Safety Factor 10% / 0% 1344 0 10% 0 0
+>> Total Zone Loads - 14789 2800 - 0 0
+"TABLE 8.1.B.Envelope Loads For Space  ""608 - Break Room Kitchen""  In Zone  ""Zone 8"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+Hourly Analysis Program 5.10 Page  27  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 9.1.A.Component Loads For Space  ""609A - Conference Room""  In Zone  ""Zone 9"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jun 1800 HEATING DATA AT DES HTG
+COOLING OA DB / WB78.1 °F / 67.1 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 174 ft2 5936 - 174 ft2 - -
+Wall Transmission 109 ft2 103 - 109 ft2 538 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 174 ft2 183 - 174 ft2 5168 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 467 W 1595 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 262 W 895 - 0 0 -
+People 12 3000 2400 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 1560 0 - 0 0
+Safety Factor 10% / 0% 1327 0 10% 571 0
+>> Total Zone Loads - 14599 2400 - 6276 0
+"TABLE 9.1.B.Envelope Loads For Space  ""609A - Conference Room""  In Zone  ""Zone 9"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+NW  EXPOSURE
+WALL 109 0.091 - 103 - 538
+WINDOW 1 174 0.550 0.460 183 5936 5168
+Hourly Analysis Program 5.10 Page  28  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 9.2.A.Component Loads For Space  ""609B - Break Room""  In Zone  ""Zone 9"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jun 1700 HEATING DATA AT DES HTG
+COOLING OA DB / WB79.6 °F / 67.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 87 ft2 4077 - 87 ft2 - -
+Wall Transmission 41 ft2 53 - 41 ft2 202 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 87 ft2 136 - 87 ft2 2584 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 195 W 665 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 137 W 468 - 0 0 -
+People 10 2500 2000 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 0 0 - 0 0
+Safety Factor 10% / 0% 790 0 10% 279 0
+>> Total Zone Loads - 8690 2000 - 3064 0
+"TABLE 9.2.B.Envelope Loads For Space  ""609B - Break Room""  In Zone  ""Zone 9"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+W  EXPOSURE
+WALL 41 0.091 - 53 - 202
+WINDOW 1 87 0.550 0.460 136 4077 2584
+Hourly Analysis Program 5.10 Page  29  of  30
+Space Design Load Summary for Anglo-American Floor 6
+Project Name: Anglo-American TI HAP 08/26/2019
+Prepared by: wsp 03:49PM
+"TABLE 10.1.A.Component Loads For Space  ""600 - Corridor""  In Zone  ""Zone 10"""
+DESIGN COOLING DESIGN HEATING
+COOLING DATA AT Jan 2300 HEATING DATA AT DES HTG
+COOLING OA DB / WB52.6 °F / 51.6 °F HEATING OA DB / WB16.0 °F / 14.8 °F
+OCCUPIED T-STAT 75.0 °F OCCUPIED T-STAT 70.0 °F
+Sensible Latent Sensible Latent
+SPACE LOADS Details (BTU/hr) (BTU/hr) Details (BTU/hr) (BTU/hr)
+Window & Skylight Solar Loads 0 ft2 0 - 0 ft2 - -
+Wall Transmission 0 ft2 0 - 0 ft2 0 -
+Roof Transmission 0 ft2 0 - 0 ft2 0 -
+Window Transmission 0 ft2 0 - 0 ft2 0 -
+Skylight Transmission 0 ft2 0 - 0 ft2 0 -
+Door Loads 0 ft2 0 - 0 ft2 0 -
+Floor Transmission 0 ft2 0 - 0 ft2 0 -
+Partitions 0 ft2 0 - 0 ft2 0 -
+Ceiling 0 ft2 0 - 0 ft2 0 -
+Overhead Lighting 304 W 1036 - 0 0 -
+Task Lighting 0 W 0 - 0 0 -
+Electric Equipment 317 W 1083 - 0 0 -
+People 0 0 0 0 0 0
+Infiltration - 0 0 - 0 0
+Miscellaneous - 940 0 - 0 0
+Safety Factor 10% / 0% 306 0 10% 0 0
+>> Total Zone Loads - 3365 0 - 0 0
+"TABLE 10.1.B.Envelope Loads For Space  ""600 - Corridor""  In Zone  ""Zone 10"""
+COOLING COOLING HEATING
+Area U-Value Shade TRANS SOLAR TRANS
+(ft2) (BTU/(hr·ft2·°F)) Coeff. (BTU/hr) (BTU/hr) (BTU/hr)
+Hourly Analysis Program 5.10 Page  30  of  30

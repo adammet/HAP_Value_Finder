@@ -4,18 +4,21 @@
 #Date: 2019.09.12
 
 #Import nessecary libraries
-import tabula, pandas, numpy, distro
+import camelot
 from tkinter import messagebox
-
+from PyPDF2 import PdfFileReader
 
 #Function
 def to_csv(pdf_path, output_path):
     pdf_path = pdf_path
     output_path = output_path
     try:
-        tabula.convert_into(pdf_path,pages='all', guess=False,output_format="CSV",output_path=output_path) #Try to convert the file
+        tables = camelot.read_pdf(pdf_path) #Get the tables
+        tables[0].to_csv(output_path)
     except AttributeError:
         messagebox.showerror("Operation cancelled!", "In order to continue, please re-run the program and select a PDF file.")
 
-
+pdf_path = "C:/Users/CAAM070972/Desktop/Python/Test_File/Floor_6_REV03.pdf"
+output_path = pdf_path.replace(".pdf",".csv")
+to_csv(pdf_path,output_path)
  

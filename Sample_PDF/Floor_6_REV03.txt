@@ -1,0 +1,134 @@
+Your project's sensible cooling, latent cooling and heating loads are shown below. 
+ 
+Space Name: "601A - Lounge/Coffee"
+Sensible Cooling = 9284 BTU/hr, Latent Cooling = 1600 BTU/hr, Sensible Heating = 6227 BTU/hr
+
+Space Name: "601B - Open Area"
+Sensible Cooling = 6826 BTU/hr, Latent Cooling = 1000 BTU/hr, Sensible Heating = 4301 BTU/hr
+
+Space Name: "602A - Breakout"
+Sensible Cooling = 1662 BTU/hr, Latent Cooling = 800 BTU/hr, Sensible Heating = 0 BTU/hr
+
+Space Name: "602B - Phone Room"
+Sensible Cooling = 484 BTU/hr, Latent Cooling = 200 BTU/hr, Sensible Heating = 0 BTU/hr
+
+Space Name: "602C - Phone Room"
+Sensible Cooling = 498 BTU/hr, Latent Cooling = 200 BTU/hr, Sensible Heating = 0 BTU/hr
+
+Space Name: "603 - Open Office"
+Sensible Cooling = 13966 BTU/hr, Latent Cooling = 2000 BTU/hr, Sensible Heating = 10265 BTU/hr
+
+Space Name: "604A - Copy Room"
+Sensible Cooling = 4270 BTU/hr, Latent Cooling = 200 BTU/hr, Sensible Heating = 0 BTU/hr
+
+Space Name: "604B - Storage"
+Sensible Cooling = 551 BTU/hr, Latent Cooling = 0 BTU/hr, Sensible Heating = 0 BTU/hr
+
+Space Name: "604C - Breakout"
+Sensible Cooling = 1749 BTU/hr, Latent Cooling = 800 BTU/hr, Sensible Heating = 0 BTU/hr
+
+Space Name: "604D - Breakout"
+Sensible Cooling = 2399 BTU/hr, Latent Cooling = 1200 BTU/hr, Sensible Heating = 0 BTU/hr
+
+Space Name: "605A - Open Office"
+Sensible Cooling = 8066 BTU/hr, Latent Cooling = 1200 BTU/hr, Sensible Heating = 4764 BTU/hr
+
+Space Name: "605B - Open Office"
+Sensible Cooling = 9589 BTU/hr, Latent Cooling = 400 BTU/hr, Sensible Heating = 6227 BTU/hr
+
+Space Name: "605C - Open Office"
+Sensible Cooling = 11721 BTU/hr, Latent Cooling = 800 BTU/hr, Sensible Heating = 4289 BTU/hr
+
+Space Name: "606 - Open Office"
+Sensible Cooling = 4782 BTU/hr, Latent Cooling = 1800 BTU/hr, Sensible Heating = 0 BTU/hr
+
+Space Name: "607A - Reception Areas"
+Sensible Cooling = 2400 BTU/hr, Latent Cooling = 600 BTU/hr, Sensible Heating = 0 BTU/hr
+
+Space Name: "607B - Copy Room"
+Sensible Cooling = 2173 BTU/hr, Latent Cooling = 200 BTU/hr, Sensible Heating = 0 BTU/hr
+
+Space Name: "607C - Comm Room"
+Sensible Cooling = 789 BTU/hr, Latent Cooling = 200 BTU/hr, Sensible Heating = 0 BTU/hr
+
+Space Name: "608 - Break Room Kitchen"
+Sensible Cooling = 14789 BTU/hr, Latent Cooling = 2800 BTU/hr, Sensible Heating = 0 BTU/hr
+
+Space Name: "609A - Conference Room"
+Sensible Cooling = 14599 BTU/hr, Latent Cooling = 2400 BTU/hr, Sensible Heating = 6276 BTU/hr
+
+Space Name: "609B - Break Room"
+Sensible Cooling = 8690 BTU/hr, Latent Cooling = 2000 BTU/hr, Sensible Heating = 3064 BTU/hr
+
+Space Name: "600 - Corridor"
+Sensible Cooling = 3365 BTU/hr, Latent Cooling = 0 BTU/hr, Sensible Heating = 0 BTU/hr
+
+
+Copyable Sensible Cooling Loads in BTU/hr (in order shown above):
+9284
+6826
+1662
+484
+498
+13966
+4270
+551
+1749
+2399
+8066
+9589
+11721
+4782
+2400
+2173
+789
+14789
+14599
+8690
+3365
+
+Copyable Latent Cooling Loads in BTU/hr (in order shown above):
+1600
+1000
+800
+200
+200
+2000
+200
+0
+800
+1200
+1200
+400
+800
+1800
+600
+200
+200
+2800
+2400
+2000
+0
+
+Copyable Heating Loads in BTU/hr (in order shown above):
+6227
+4301
+0
+0
+0
+10265
+0
+0
+0
+0
+4764
+6227
+4289
+0
+0
+0
+0
+0
+6276
+3064
+0
