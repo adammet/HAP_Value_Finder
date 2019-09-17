@@ -12,9 +12,11 @@ from PyPDF2 import PdfFileReader
 def to_csv(pdf_path, output_path):
     pdf_path = pdf_path
     output_path = output_path
+
     try:
-        tables = camelot.read_pdf(pdf_path) #Get the tables
-        tables[0].to_csv(output_path)
+        tables = camelot.read_pdf(pdf_path, pages='1-2') #Get the tables
+        tables.export(output_path, f='csv',compress = True )
+
     except AttributeError:
         messagebox.showerror("Operation cancelled!", "In order to continue, please re-run the program and select a PDF file.")
 
